@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>DNSSettings</key>
+      <dict>
+        <key>DNSProtocol</key>
+        <string>HTTPS</string>
+        <key>ServerURL</key>
+        <string>https://d.adguard-dns.com/dns-query/2621c675</string>
+        <key>SupplementalMatchDomains</key>
+        <array>
+          <string>*.tinyiptv.com</string>
+          <string>tinyiptv.com</string>
+        </array>
+      </dict>
+      <key>PayloadDisplayName</key>
+      <string>Kinopub DNS Settings</string>
+      <key>PayloadIdentifier</key>
+      <string>com.apple.dnsSettings.managed.7FED5B24-7DCF-4C3D-90B7-328AD89A3FD4</string>
+      <key>PayloadType</key>
+      <string>com.apple.dnsSettings.managed</string>
+      <key>PayloadUUID</key>
+      <string>583D8B83-AD7C-482D-9C02-C6782513E4A1</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+    </dict>
+  </array>
+  <key>PayloadDisplayName</key>
+  <string>KinopubDNS</string>
+  <key>PayloadIdentifier</key>
+  <string>com.kpub.C5A66F1D-51BC-4FD5-A912-0056486FC0BD</string>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadUUID</key>
+  <string>2DE70C09-DF60-4220-A72E-21E12AE99961</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+</dict>
+</plist>
